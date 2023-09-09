@@ -1,0 +1,2 @@
+# Trader
+ Ai Trader
